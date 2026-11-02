@@ -191,5 +191,3 @@ git clone https://github.com/joonspk-research/generative_agents.git chapter10/ge
 </a>
 
 <sub>由 [`scripts/gen_star_history.py`](scripts/gen_star_history.py) 生成，[GitHub Actions](.github/workflows/star-history.yml) 每日自动更新 · 点击图片查看实时数据</sub>
-本仓库正在用于 dsh-superagent 的端到端连通性测试。
-Agent 账号 mx2023zx-agent 已接管本仓库的自动化。
